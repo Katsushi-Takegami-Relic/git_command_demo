@@ -1,2 +1,3 @@
+five commit用テキスト行
 second commit用テキストファイル
 third commit用テキスト行
